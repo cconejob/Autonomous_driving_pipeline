@@ -3,7 +3,7 @@
 ## Paper
 Before adopting the pipeline for a singular purpose, we strongly recommend to read the article that explains our work in detail:
 [Design and Implementation for Fully Autonomous Driving Systems. Paraplegic Patients Assistance](/paper.pdf) [pdf]
-
+<a id="raw-url" href="/paper.pdf">Download FILE</a>
 <p align="center">
 <img src="./src/control/Images/MR_Loomo_closed_loop.gif" alt="drawing" width="700"/>
 </p>
